@@ -1,0 +1,7 @@
+C:\Users\NiTRO\Desktop\To-Do List App\To-Do List App\bin\Debug\To-Do List App.exe.config
+C:\Users\NiTRO\Desktop\To-Do List App\To-Do List App\bin\Debug\To-Do List App.exe
+C:\Users\NiTRO\Desktop\To-Do List App\To-Do List App\bin\Debug\To-Do List App.pdb
+C:\Users\NiTRO\Desktop\To-Do List App\To-Do List App\obj\Debug\To-Do List App.csproj.AssemblyReference.cache
+C:\Users\NiTRO\Desktop\To-Do List App\To-Do List App\obj\Debug\To-Do List App.csproj.CoreCompileInputs.cache
+C:\Users\NiTRO\Desktop\To-Do List App\To-Do List App\obj\Debug\To-Do List App.exe
+C:\Users\NiTRO\Desktop\To-Do List App\To-Do List App\obj\Debug\To-Do List App.pdb

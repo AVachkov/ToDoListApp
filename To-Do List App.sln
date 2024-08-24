@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "To-Do List App", "To-Do List App\To-Do List App.csproj", "{A639AC9B-0516-4686-A617-B98B153FBAC8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F4B8EF2B-1045-476D-88B1-B21110D41B2E}"
+	ProjectSection(SolutionItems) = preProject
+		Task.cs = Task.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A639AC9B-0516-4686-A617-B98B153FBAC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A639AC9B-0516-4686-A617-B98B153FBAC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A639AC9B-0516-4686-A617-B98B153FBAC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A639AC9B-0516-4686-A617-B98B153FBAC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32E6CAA6-6F95-47A1-AAE4-0265383EAC70}
+	EndGlobalSection
+EndGlobal
